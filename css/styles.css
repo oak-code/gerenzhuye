@@ -10,6 +10,15 @@
 			background:rgb(95,192,205); /* 背景色 */ 
 		
 			}
+	footer
+			{
+				height:60px;
+				position:fixed;
+				bottom:0px;
+				left:0px;
+				width:100%;
+		
+			}
 	input{	
 			border:0;	
 			width:85%;
@@ -27,3 +36,28 @@
 				width:15px;
 				float:left;
 				}
+	.footer_1{
+		margin:4px;
+		border:3px solid rgb(95,192,205);
+		border-radius: 10px;
+		color:rgb(95,192,205);
+		width:44%;
+		height:46px;
+		line-height:46px;
+		background:rgb(239,240,244); /* 背景色 */ 
+		float:left;
+			}
+
+		
+	.footer_2{	
+		margin:4px;
+		border:3px solid rgb(95,192,205);
+		border-radius: 10px;
+		color:rgb(239,240,244);
+		width:44%;
+		height:46px;
+		line-height:46px;
+		padding-bottom:;
+		background:rgb(95,192,205); /* 背景色 */ 
+		float:right;
+		}
