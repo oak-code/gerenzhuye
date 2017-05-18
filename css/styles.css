@@ -1,0 +1,29 @@
+ 
+	body{ 	
+			padding:0px;
+			margin:0px;
+			text-align:center;
+			background:rgb(239,240,244); /* 背景色 */ 
+		} 
+	header {
+			padding:20px;
+			background:rgb(95,192,205); /* 背景色 */ 
+		
+			}
+	input{	
+			border:0;	
+			width:85%;
+			height:30px;
+			outline:medium;
+	}
+	.userhome_text	{
+					text-align:left;
+					color:rgb(239,240,244);
+					font-size:1.4em;
+					float:center;
+				}
+	.break	{
+				margin-top:4px;
+				width:15px;
+				float:left;
+				}
